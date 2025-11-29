@@ -16,4 +16,5 @@ tzdata
 Werkzeug
 xgboost
 tensorflow
-sklearn
+scikit-learn
+
